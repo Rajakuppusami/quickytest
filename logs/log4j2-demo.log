@@ -1,0 +1,279 @@
+2018-11-21 22:32:29.364  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 8212 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-21 22:32:29.373 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21 22:32:29.374  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-21 22:32:33.213  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 4.289 seconds (JVM running for 5.319)
+2018-11-21 22:32:33.216  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 22:32:33.216  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-21 22:32:33.216  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 22:32:56.982 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into sample test page ...
+2018-11-21 22:32:56.983 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : ----Exit----
+2018-11-21 23:15:37.170  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 7020 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-21 23:15:37.178 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21 23:15:37.182  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-21 23:15:47.097  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 10.356 seconds (JVM running for 11.439)
+2018-11-21 23:15:47.101  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 23:15:47.101  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-21 23:15:47.105  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 23:15:47.105 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-21 23:15:47.105  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-21 23:15:47.105  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-21 23:15:47.105 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-21 23:15:47.105 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-21 23:21:04.203 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into sample test page ...
+2018-11-21 23:21:04.203 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : ----Exit----
+2018-11-21 23:25:24.114  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 5604 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-21 23:25:24.114 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21 23:25:24.114  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-21 23:25:30.903  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 7.234 seconds (JVM running for 8.248)
+2018-11-21 23:25:30.903  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 23:25:30.903  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-21 23:25:30.903  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 23:25:30.903 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-21 23:25:30.903  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-21 23:25:30.903  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-21 23:25:30.903 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-21 23:25:30.903 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-21 23:25:50.102 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into sample test page ...
+2018-11-21 23:25:50.102 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : ----Exit----
+2018-11-21 23:26:10.190 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-21 23:26:10.190 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-21 23:26:10.289 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-21 23:26:55.058 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-4] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-21 23:26:55.058 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-4] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-21 23:29:37.468  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 8324 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-21 23:29:37.468 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21 23:29:37.468  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-21 23:29:44.360  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 7.408 seconds (JVM running for 8.721)
+2018-11-21 23:29:44.364  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 23:29:44.364  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-21 23:29:44.364  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 23:29:44.364 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-21 23:29:44.368  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-21 23:29:44.368  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-21 23:29:44.368 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-21 23:29:44.368 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-21 23:29:52.446 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into sample test page ...
+2018-11-21 23:29:52.446 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : ----Exit----
+2018-11-21 23:30:16.793 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-21 23:30:16.793 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-21 23:30:16.881 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-21 23:30:22.337 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-21 23:30:22.337 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-21 23:35:47.094  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 6320 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-21 23:35:47.107 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21 23:35:47.107  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-21 23:35:53.625  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 6.942 seconds (JVM running for 7.993)
+2018-11-21 23:35:53.625  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 23:35:53.625  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-21 23:35:53.625  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-21 23:35:53.625 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-21 23:35:53.625  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-21 23:35:53.625  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-21 23:35:53.625 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-21 23:35:53.641 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-21 23:36:02.085 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-21 23:36:02.085 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-21 23:36:02.200 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-21 23:36:17.896 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-21 23:36:17.896 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-21 23:36:39.405 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-21 23:36:39.405 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-21 23:36:39.412 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-21 23:36:44.020 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-4] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-21 23:36:44.020 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-4] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 20:43:46.694  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 4624 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-22 20:43:46.715 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-22 20:43:46.716  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-22 20:43:58.025  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 11.766 seconds (JVM running for 13.063)
+2018-11-22 20:43:58.028  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-22 20:43:58.028  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-22 20:43:58.028  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-22 20:43:58.029 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-22 20:43:58.030  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-22 20:43:58.031  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-22 20:43:58.032 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-22 20:43:58.032 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-22 20:45:22.551 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 20:45:22.551 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 20:45:30.746 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 20:45:30.746 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 20:45:30.847 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 20:46:02.923 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 20:46:02.924 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 21:09:59.984  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 10428 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-22 21:10:00.000 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-22 21:10:00.000  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-22 21:10:07.509  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 7.963 seconds (JVM running for 9.14)
+2018-11-22 21:10:07.509  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-22 21:10:07.509  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-22 21:10:07.509  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-22 21:10:07.509 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-22 21:10:07.509  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-22 21:10:07.525  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-22 21:10:07.525 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-22 21:10:07.525 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-22 21:10:19.717 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:10:19.717 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:10:19.867 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:10:41.878 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:10:41.878 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 21:11:05.771 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:11:05.771 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:11:05.778 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:11:11.120 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-4] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:11:11.120 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-4] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 21:11:15.033 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-5] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:11:15.037 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-5] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 21:11:18.207 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-6] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:11:18.207 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-6] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 21:11:31.859 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-7] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:11:31.859 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-7] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:11:31.863 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-7] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:11:46.043 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-8] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:11:46.043 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-8] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:11:46.048 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-8] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:11:49.344 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-9] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:11:49.344 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-9] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 21:12:18.444 DEBUG DESKTOP-D2PJ1IO --- [io-8083-exec-10] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:12:18.444 DEBUG DESKTOP-D2PJ1IO --- [io-8083-exec-10] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:12:18.450 DEBUG DESKTOP-D2PJ1IO --- [io-8083-exec-10] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:12:22.576 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:12:22.576 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 21:12:40.270 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:12:40.270 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:12:40.274 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:12:47.726 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:12:47.726 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 21:50:36.982  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 3988 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-22 21:50:36.998 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-22 21:50:36.998  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-22 21:53:18.078  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 3844 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-22 21:53:18.078 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-22 21:53:18.078  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-22 21:53:25.930  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 8.274 seconds (JVM running for 9.396)
+2018-11-22 21:53:25.934  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-22 21:53:25.934  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-22 21:53:25.934  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-22 21:53:25.934 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-22 21:53:25.934  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-22 21:53:25.938  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-22 21:53:25.938 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-22 21:53:25.938 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-22 21:56:53.670 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:56:53.670 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:56:53.811 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:57:04.943 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:57:04.943 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:57:04.948 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:57:15.670 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:57:15.670 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:57:15.674 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:57:22.568 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-4] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-22 21:57:22.568 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-4] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-22 21:57:22.574 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-4] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-22 21:57:26.663 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-5] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:57:26.663 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-5] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-22 21:59:07.692 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-7] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:59:19.311 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-8] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 21:59:27.805 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-9] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 22:00:00.102 DEBUG DESKTOP-D2PJ1IO --- [io-8083-exec-10] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-22 22:00:27.987 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-24 16:17:49.047  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 9472 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-24 16:17:49.117 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-24 16:17:49.118  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-24 16:17:58.364  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 9.824 seconds (JVM running for 11.036)
+2018-11-24 16:17:58.366  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 16:17:58.366  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-24 16:17:58.367  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 16:17:58.367 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-24 16:17:58.367  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-24 16:17:58.367  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-24 16:17:58.368 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-24 16:17:58.368 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-24 16:18:56.643 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : Enter into sample test page ...
+2018-11-24 16:18:56.644 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-1] c.r.o.q.c.MainController                 : ----Exit----
+2018-11-24 16:19:40.964 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-6] c.r.o.q.c.MainController                 : Enter into add question controller ...
+2018-11-24 16:19:40.965 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-6] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for adding question to db
+2018-11-24 16:19:41.208 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-6] c.r.o.q.c.MainController                 : Question are updated in db.
+2018-11-24 16:19:46.701 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.c.MainController                 : Enter into get all question controller ...
+2018-11-24 16:19:46.701 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-3] c.r.o.q.d.QuestionsDAOImple              : Enter into questionsdao for getting all question from db
+2018-11-24 16:19:53.750 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-7] c.r.o.q.c.MainController                 : Enter into sample test page ...
+2018-11-24 16:19:53.750 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-7] c.r.o.q.c.MainController                 : ----Exit----
+2018-11-24 20:10:59.364  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 7048 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-24 20:10:59.405 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-24 20:10:59.406  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-24 20:11:08.714  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 10.011 seconds (JVM running for 12.957)
+2018-11-24 20:11:08.717  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 20:11:08.718  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-24 20:11:08.718  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 20:11:08.724 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-24 20:11:08.724  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-24 20:11:08.726  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-24 20:11:08.726 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-24 20:11:08.726 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-24 20:12:44.509  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 1008 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-24 20:12:44.518 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-24 20:12:44.519  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-24 20:12:51.787  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 7.704 seconds (JVM running for 8.72)
+2018-11-24 20:12:51.791  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 20:12:51.791  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-24 20:12:51.791  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 20:12:51.791 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-24 20:12:51.792  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-24 20:12:51.792  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-24 20:12:51.792 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-24 20:12:51.792 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-24 20:17:07.203  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 6324 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-24 20:17:07.212 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-24 20:17:07.214  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-24 20:17:14.478  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 7.704 seconds (JVM running for 8.735)
+2018-11-24 20:17:14.481  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 20:17:14.482  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-24 20:17:14.482  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 20:17:14.483 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-24 20:17:14.484  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-24 20:17:14.486  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-24 20:17:14.486 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-24 20:17:14.486 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-24 20:17:45.871 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Testdetils object :TestDetails [companyName=raja, testName=sample, noOfQst=10, totalMarks=20, totalTime=10]
+2018-11-24 21:37:31.860  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 11192 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-24 21:37:31.871 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-24 21:37:31.872  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-24 21:37:39.788  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 8.376 seconds (JVM running for 9.426)
+2018-11-24 21:37:39.791  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 21:37:39.792  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-24 21:37:39.792  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 21:37:39.792 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-24 21:37:39.793  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-24 21:37:39.794  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-24 21:37:39.795 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-24 21:37:39.795 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-24 21:38:13.689 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-6] c.r.o.q.c.MainController                 : Testdetils object :TestDetails [companyName=raja, testName=sample, noOfQst=10, totalMarks=20, totalTime=10]
+2018-11-24 21:40:53.421 DEBUG DESKTOP-D2PJ1IO --- [io-8083-exec-10] c.r.o.q.c.MainController                 : Testdetils object :TestDetails [companyName=raja, testName=sample, noOfQst=10, totalMarks=20, totalTime=10]
+2018-11-24 21:41:21.504 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-6] c.r.o.q.c.MainController                 : Testdetils object :TestDetails [companyName=kavin, testName=sample1, noOfQst=20, totalMarks=40, totalTime=10]
+2018-11-24 21:41:42.055  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 7516 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-24 21:41:42.055 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-24 21:41:42.071  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-24 21:41:49.156  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 7.517 seconds (JVM running for 8.582)
+2018-11-24 21:41:49.156  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 21:41:49.156  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-24 21:41:49.156  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 21:41:49.156 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-24 21:41:49.156  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-24 21:41:49.156  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-24 21:41:49.156 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-24 21:41:49.156 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-24 21:42:10.172 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Testdetils object :TestDetails [companyName=kavin, testName=sample1, noOfQst=10, totalMarks=10, totalTime=10]
+2018-11-24 21:43:28.866  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Starting QuickytestApplication on DESKTOP-D2PJ1IO with PID 9008 (D:\Project-workspace\quickytest\target\classes started by Raja in D:\Project-workspace\quickytest)
+2018-11-24 21:43:28.881 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-24 21:43:28.881  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : No active profile set, falling back to default profiles: default
+2018-11-24 21:43:37.919  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Started QuickytestApplication in 9.466 seconds (JVM running for 10.488)
+2018-11-24 21:43:37.922  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 21:43:37.923  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Application Started
+2018-11-24 21:43:37.923  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : ------------------------------------------
+2018-11-24 21:43:37.924 DEBUG DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Debugging log
+2018-11-24 21:43:37.924  INFO DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Info log
+2018-11-24 21:43:37.924  WARN DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Hey, This is a warning!
+2018-11-24 21:43:37.924 ERROR DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Oops! We have an Error. OK
+2018-11-24 21:43:37.924 FATAL DESKTOP-D2PJ1IO --- [           main] c.r.o.q.QuickytestApplication            : Damn! Fatal error. Please fix me.
+2018-11-24 21:43:49.800 DEBUG DESKTOP-D2PJ1IO --- [nio-8083-exec-2] c.r.o.q.c.MainController                 : Testdetils object :TestDetails [companyName=raja, testName=sample, noOfQst=10, totalMarks=10, totalTime=10]
